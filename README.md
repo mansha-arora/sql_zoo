@@ -1,3 +1,3 @@
 # sql_zoo
 
-SQL practice using sqlzoo.net (MySQL version)
+Amazing SQL practice questions using sqlzoo.net (MySQL version)
